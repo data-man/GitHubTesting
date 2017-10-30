@@ -5,9 +5,9 @@ If anything doesn't work, try
 ```
 
 ## Environment ##
-* OS Name:
-* OS Version:
-* Nim Version:
+* OS Name: 
+* OS Version: 
+* Nim Version: devel (latest commit: [commit number])
 
 ## Problem Description ##
 Describe your problem in detail.
@@ -15,9 +15,6 @@ Describe your problem in detail.
 ```nim
 
 ```
-
-## Steps to Reproduce ##
-Tell us how this issue can be reproduced.
 
 ## Known Workarounds ##
 Just in case others run into this – do you happen to know of a workaround? Otherwise, just remove this section altogether.
@@ -28,15 +25,10 @@ A summary of the issue and the environment in which it occurs. If suitable, incl
 
 
 ## Steps to Reproduce
+Tell us how this issue can be reproduced.
 
 1. This is the first step
 2. This is the second step
 3. Further steps, etc.
 
 Any other information you want to share that is relevant to the issue being reported. Especially, why do you consider this to be a bug? What do you expect to happen instead?
-
-## Technical details:
-
-* Nim Version: devel (latest commit: [commit number])
-* OS Name: 
-* OS Version: 
